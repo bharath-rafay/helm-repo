@@ -1,2 +1,2 @@
 database:
-  enabled: false
+  enabled: true
